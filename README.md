@@ -9,4 +9,4 @@ Este projeto de análise se propõe a responder uma questão crucial para invest
 
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>](https://colab.research.google.com/github/GeorgeTelles/stock_vs_bdr/blob/main/Stock_vs_BDR.ipynb)
 
-<img src="https://github.com/GeorgeTelles/sharpe_sortino_ratio/blob/ed9bd99e67bb5397f1789f5673d2c69b9a8ccfbe/sharpe%20vs%20sortino.png" alt="Sharpe and Sortino"/>
+<img src="https://github.com/GeorgeTelles/stock_vs_bdr/blob/c29cc88bffc3b77ac8dd03e73e57ba16f2d30b21/aapl%20e%20aapl34.png" width="800" alt="grafico aapl e aaplbdr"/>
